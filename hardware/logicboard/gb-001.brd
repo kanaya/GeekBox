@@ -212,6 +212,8 @@
 Takachi
 PF13-3-9</text>
 <text x="93.5" y="12" size="1" layer="25" align="center">4-M2.3</text>
+<text x="91" y="75" size="1.27" layer="25" align="center">V</text>
+<text x="86" y="75" size="1.27" layer="25" align="center">V/2</text>
 </plain>
 <libraries>
 <library name="con-ml" urn="urn:adsk.eagle:library:164">
@@ -3280,7 +3282,7 @@ design rules under a new name.</description>
 <wire x1="90.9828" y1="63.5508" x2="91" y2="63.46" width="0.1524" layer="1"/>
 <wire x1="57.7596" y1="63.8556" x2="57.62" y2="63.73" width="0.1524" layer="1"/>
 </signal>
-<signal name="N$2">
+<signal name="VCCLED">
 <contactref element="R1" pad="2"/>
 <contactref element="LED1" pad="A"/>
 <wire x1="91.1352" y1="69.4944" x2="91.1352" y2="68.58" width="0.1524" layer="1"/>
@@ -3290,7 +3292,7 @@ design rules under a new name.</description>
 <wire x1="91.1352" y1="68.58" x2="91" y2="68.54" width="0.1524" layer="1"/>
 <wire x1="91.1352" y1="73.152" x2="91" y2="73.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="N$1">
+<signal name="VCC2LED">
 <contactref element="LED2" pad="A"/>
 <contactref element="R2" pad="2"/>
 <wire x1="85.9536" y1="69.4944" x2="85.9536" y2="68.58" width="0.1524" layer="1"/>
