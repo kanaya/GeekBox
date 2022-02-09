@@ -11109,7 +11109,7 @@ Source: www.kingbright.com</description>
 <pinref part="SUPPLY2" gate="GND" pin="GND"/>
 </segment>
 </net>
-<net name="T00" class="0">
+<net name="GB00" class="0">
 <segment>
 <pinref part="SV0" gate="-1" pin="S"/>
 <wire x1="35.56" y1="243.84" x2="33.02" y2="243.84" width="0.1524" layer="91"/>
@@ -11121,7 +11121,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="243.84" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T01" class="0">
+<net name="GB01" class="0">
 <segment>
 <pinref part="SV0" gate="-3" pin="S"/>
 <wire x1="35.56" y1="233.68" x2="33.02" y2="233.68" width="0.1524" layer="91"/>
@@ -11133,7 +11133,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="233.68" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T02" class="0">
+<net name="GB02" class="0">
 <segment>
 <pinref part="SV0" gate="-5" pin="S"/>
 <wire x1="35.56" y1="223.52" x2="33.02" y2="223.52" width="0.1524" layer="91"/>
@@ -11145,7 +11145,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="213.36" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T03" class="0">
+<net name="GB03" class="0">
 <segment>
 <pinref part="SV0" gate="-7" pin="S"/>
 <wire x1="35.56" y1="213.36" x2="33.02" y2="213.36" width="0.1524" layer="91"/>
@@ -11157,7 +11157,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="203.2" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T04" class="0">
+<net name="GB04" class="0">
 <segment>
 <pinref part="SV0" gate="-9" pin="S"/>
 <wire x1="35.56" y1="203.2" x2="33.02" y2="203.2" width="0.1524" layer="91"/>
@@ -11169,7 +11169,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="193.04" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T05" class="0">
+<net name="GB05" class="0">
 <segment>
 <pinref part="SV0" gate="-11" pin="S"/>
 <wire x1="35.56" y1="193.04" x2="33.02" y2="193.04" width="0.1524" layer="91"/>
@@ -11181,7 +11181,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="238.76" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T06" class="0">
+<net name="GB06" class="0">
 <segment>
 <pinref part="SV0" gate="-13" pin="S"/>
 <wire x1="35.56" y1="182.88" x2="33.02" y2="182.88" width="0.1524" layer="91"/>
@@ -11193,7 +11193,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="228.6" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T07" class="0">
+<net name="GB07" class="0">
 <segment>
 <pinref part="SV0" gate="-15" pin="S"/>
 <wire x1="35.56" y1="172.72" x2="33.02" y2="172.72" width="0.1524" layer="91"/>
@@ -11205,14 +11205,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="218.44" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="NC" class="0">
-<segment>
-<pinref part="SV0" gate="-17" pin="S"/>
-<wire x1="35.56" y1="162.56" x2="33.02" y2="162.56" width="0.1524" layer="91"/>
-<label x="33.02" y="162.56" size="0.8128" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="T08" class="0">
+<net name="GB08" class="0">
 <segment>
 <pinref part="SV0" gate="-19" pin="S"/>
 <wire x1="35.56" y1="152.4" x2="33.02" y2="152.4" width="0.1524" layer="91"/>
@@ -11224,7 +11217,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="208.28" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T09" class="0">
+<net name="GB09" class="0">
 <segment>
 <pinref part="SV0" gate="-21" pin="S"/>
 <wire x1="35.56" y1="142.24" x2="33.02" y2="142.24" width="0.1524" layer="91"/>
@@ -11236,7 +11229,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="198.12" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T10" class="0">
+<net name="GB10" class="0">
 <segment>
 <pinref part="SV0" gate="-23" pin="S"/>
 <wire x1="35.56" y1="132.08" x2="33.02" y2="132.08" width="0.1524" layer="91"/>
@@ -11248,7 +11241,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="187.96" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T11" class="0">
+<net name="GB11" class="0">
 <segment>
 <pinref part="SV0" gate="-25" pin="S"/>
 <wire x1="35.56" y1="121.92" x2="33.02" y2="121.92" width="0.1524" layer="91"/>
@@ -11260,7 +11253,7 @@ Source: www.kingbright.com</description>
 <label x="101.6" y="177.8" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T12" class="0">
+<net name="GB12" class="0">
 <segment>
 <pinref part="SV0" gate="-27" pin="S"/>
 <wire x1="35.56" y1="111.76" x2="33.02" y2="111.76" width="0.1524" layer="91"/>
@@ -11272,7 +11265,7 @@ Source: www.kingbright.com</description>
 <label x="162.56" y="238.76" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T13" class="0">
+<net name="GB13" class="0">
 <segment>
 <pinref part="SV0" gate="-29" pin="S"/>
 <wire x1="35.56" y1="101.6" x2="33.02" y2="101.6" width="0.1524" layer="91"/>
@@ -11284,7 +11277,7 @@ Source: www.kingbright.com</description>
 <label x="162.56" y="218.44" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T14" class="0">
+<net name="GB14" class="0">
 <segment>
 <pinref part="SV0" gate="-31" pin="S"/>
 <wire x1="35.56" y1="91.44" x2="33.02" y2="91.44" width="0.1524" layer="91"/>
@@ -11296,7 +11289,7 @@ Source: www.kingbright.com</description>
 <label x="162.56" y="198.12" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="T15" class="0">
+<net name="GB15" class="0">
 <segment>
 <pinref part="SV0" gate="-33" pin="S"/>
 <wire x1="35.56" y1="81.28" x2="33.02" y2="81.28" width="0.1524" layer="91"/>
@@ -11365,12 +11358,19 @@ Source: www.kingbright.com</description>
 </sheet>
 </sheets>
 <errors>
+<approved hash="101,1,35.56,162.56,SV0-17,S,,,,"/>
 <approved hash="101,1,165.1,233.68,SV1-3,S,,,,"/>
 <approved hash="101,1,165.1,213.36,SV1-7,S,,,,"/>
 <approved hash="101,1,165.1,193.04,SV1-11,S,,,,"/>
 <approved hash="101,1,165.1,172.72,SV1-15,S,,,,"/>
-<approved hash="106,1,35.56,162.56,NC,,,,,"/>
 <approved hash="113,1,193.571,130.071,FRAME2,,,,,"/>
+<approved hash="113,1,39.772,243.84,SV0,,,,,"/>
+<approved hash="113,1,108.352,243.84,SV3,,,,,"/>
+<approved hash="113,1,236.22,69.6697,R1,,,,,"/>
+<approved hash="113,1,247.65,68.9017,LED1,,,,,"/>
+<approved hash="113,1,169.312,243.84,SV1,,,,,"/>
+<approved hash="113,1,236.22,62.0497,R2,,,,,"/>
+<approved hash="113,1,247.65,61.2817,LED2,,,,,"/>
 </errors>
 </schematic>
 </drawing>
