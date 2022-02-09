@@ -176,7 +176,7 @@
 <circle x="77" y="43.5" radius="2" width="0.2" layer="41"/>
 <circle x="15" y="14.5" radius="2" width="0.2" layer="41"/>
 <circle x="77" y="14.5" radius="2" width="0.2" layer="41"/>
-<text x="46" y="27" size="1.27" layer="25" align="center">GeekBox 0.0.1-A</text>
+<text x="46" y="27" size="1.27" layer="25" align="center">GeekBox 0.0.1-X</text>
 <wire x1="79.5" y1="47.5" x2="81" y2="46" width="0" layer="20" curve="90"/>
 <wire x1="12.5" y1="47.5" x2="11" y2="46" width="0" layer="20" curve="-90"/>
 <wire x1="79.5" y1="10.5" x2="81" y2="12" width="0" layer="20" curve="-90"/>
@@ -208,7 +208,7 @@
 <rectangle x1="0" y1="12" x2="12.5" y2="13" layer="42"/>
 <rectangle x1="12.5" y1="0" x2="13.5" y2="12" layer="42"/>
 <rectangle x1="0" y1="0" x2="92" y2="1" layer="42"/>
-<text x="1.5" y="15" size="1" layer="25" align="center-left">Designed for
+<text x="0.5" y="15" size="1" layer="25" align="center-left">Designed for
 Takachi
 PF10-2-7</text>
 <text x="15" y="12" size="1" layer="25" align="center">4-M2.3</text>
@@ -3091,7 +3091,7 @@ design rules under a new name.</description>
 <vertex x="-1" y="59"/>
 </polygon>
 </signal>
-<signal name="T00">
+<signal name="GB00">
 <contactref element="SV0" pad="1"/>
 <contactref element="SV3" pad="1"/>
 <wire x1="52.4256" y1="46.9392" x2="52.4256" y2="45.8724" width="0.1524" layer="1"/>
@@ -3109,7 +3109,7 @@ design rules under a new name.</description>
 <wire x1="52.4256" y1="45.8724" x2="52.38" y2="45.73" width="0.1524" layer="1"/>
 <wire x1="66.4464" y1="12.3444" x2="66.32" y2="12.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="T01">
+<signal name="GB01">
 <contactref element="SV0" pad="3"/>
 <contactref element="SV3" pad="3"/>
 <wire x1="55.0164" y1="14.7828" x2="55.0164" y2="45.72" width="0.1524" layer="16"/>
@@ -3121,7 +3121,7 @@ design rules under a new name.</description>
 <wire x1="55.0164" y1="45.72" x2="54.92" y2="45.73" width="0.1524" layer="16"/>
 <wire x1="63.7032" y1="12.192" x2="63.78" y2="12.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T02">
+<signal name="GB02">
 <contactref element="SV0" pad="5"/>
 <contactref element="SV3" pad="7"/>
 <wire x1="60.0456" y1="13.4112" x2="60.0456" y2="45.72" width="0.1524" layer="16"/>
@@ -3129,7 +3129,7 @@ design rules under a new name.</description>
 <wire x1="60.0456" y1="45.72" x2="60" y2="45.73" width="0.1524" layer="16"/>
 <wire x1="61.1124" y1="12.3444" x2="61.24" y2="12.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T03">
+<signal name="GB03">
 <contactref element="SV0" pad="7"/>
 <contactref element="SV3" pad="9"/>
 <wire x1="58.8264" y1="46.0248" x2="58.8264" y2="12.3444" width="0.1524" layer="16"/>
@@ -3139,7 +3139,7 @@ design rules under a new name.</description>
 <wire x1="58.8264" y1="12.3444" x2="58.7" y2="12.27" width="0.1524" layer="16"/>
 <wire x1="62.484" y1="45.8724" x2="62.54" y2="45.73" width="0.1524" layer="16"/>
 </signal>
-<signal name="T04">
+<signal name="GB04">
 <contactref element="SV0" pad="9"/>
 <contactref element="SV3" pad="11"/>
 <wire x1="56.2356" y1="32.9184" x2="56.2356" y2="12.3444" width="0.1524" layer="1"/>
@@ -3151,7 +3151,7 @@ design rules under a new name.</description>
 <wire x1="56.2356" y1="12.3444" x2="56.16" y2="12.27" width="0.1524" layer="1"/>
 <wire x1="65.2272" y1="45.8724" x2="65.08" y2="45.73" width="0.1524" layer="1"/>
 </signal>
-<signal name="T05">
+<signal name="GB05">
 <contactref element="SV0" pad="11"/>
 <contactref element="SV3" pad="2"/>
 <wire x1="52.2732" y1="47.0916" x2="52.2732" y2="48.1584" width="0.1524" layer="16"/>
@@ -3163,7 +3163,7 @@ design rules under a new name.</description>
 <wire x1="52.2732" y1="48.1584" x2="52.38" y2="48.27" width="0.1524" layer="16"/>
 <wire x1="53.4924" y1="12.192" x2="53.62" y2="12.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T06">
+<signal name="GB06">
 <contactref element="SV0" pad="13"/>
 <contactref element="SV3" pad="4"/>
 <wire x1="51.2064" y1="43.1292" x2="51.2064" y2="12.3444" width="0.1524" layer="16"/>
@@ -3173,7 +3173,7 @@ design rules under a new name.</description>
 <wire x1="51.2064" y1="12.3444" x2="51.08" y2="12.27" width="0.1524" layer="16"/>
 <wire x1="54.864" y1="48.1584" x2="54.92" y2="48.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T07">
+<signal name="GB07">
 <contactref element="SV0" pad="15"/>
 <contactref element="SV3" pad="6"/>
 <wire x1="48.6156" y1="37.4904" x2="48.6156" y2="12.3444" width="0.1524" layer="1"/>
@@ -3183,10 +3183,7 @@ design rules under a new name.</description>
 <wire x1="48.6156" y1="12.3444" x2="48.54" y2="12.27" width="0.1524" layer="1"/>
 <wire x1="57.4548" y1="48.1584" x2="57.46" y2="48.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="NC">
-<contactref element="SV0" pad="17"/>
-</signal>
-<signal name="T08">
+<signal name="GB08">
 <contactref element="SV0" pad="19"/>
 <contactref element="SV3" pad="8"/>
 <wire x1="43.5864" y1="32.9184" x2="43.5864" y2="12.3444" width="0.1524" layer="1"/>
@@ -3198,7 +3195,7 @@ design rules under a new name.</description>
 <wire x1="43.5864" y1="12.3444" x2="43.46" y2="12.27" width="0.1524" layer="1"/>
 <wire x1="59.8932" y1="48.3108" x2="60" y2="48.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="T09">
+<signal name="GB09">
 <contactref element="SV0" pad="21"/>
 <contactref element="SV3" pad="10"/>
 <wire x1="42.0624" y1="12.192" x2="40.9956" y2="12.192" width="0.1524" layer="16"/>
@@ -3214,7 +3211,7 @@ design rules under a new name.</description>
 <wire x1="40.9956" y1="12.192" x2="40.92" y2="12.27" width="0.1524" layer="16"/>
 <wire x1="62.6364" y1="48.1584" x2="62.54" y2="48.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T10">
+<signal name="GB10">
 <contactref element="SV0" pad="23"/>
 <contactref element="SV3" pad="12"/>
 <wire x1="39.624" y1="12.192" x2="38.4048" y2="12.192" width="0.1524" layer="1"/>
@@ -3232,7 +3229,7 @@ design rules under a new name.</description>
 <wire x1="38.4048" y1="12.192" x2="38.38" y2="12.27" width="0.1524" layer="1"/>
 <wire x1="65.0748" y1="48.1584" x2="65.08" y2="48.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="T11">
+<signal name="GB11">
 <contactref element="SV0" pad="25"/>
 <contactref element="SV3" pad="14"/>
 <wire x1="35.9664" y1="33.2232" x2="35.9664" y2="12.3444" width="0.1524" layer="1"/>
@@ -3242,7 +3239,7 @@ design rules under a new name.</description>
 <wire x1="35.9664" y1="12.3444" x2="35.84" y2="12.27" width="0.1524" layer="1"/>
 <wire x1="67.5132" y1="48.3108" x2="67.62" y2="48.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="T12">
+<signal name="GB12">
 <contactref element="SV0" pad="27"/>
 <contactref element="SV1" pad="2"/>
 <wire x1="25.2984" y1="48.1584" x2="24.2316" y2="48.1584" width="0.1524" layer="16"/>
@@ -3255,7 +3252,7 @@ design rules under a new name.</description>
 <wire x1="24.2316" y1="48.1584" x2="24.11" y2="48.27" width="0.1524" layer="16"/>
 <wire x1="33.2232" y1="12.3444" x2="33.3" y2="12.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T13">
+<signal name="GB13">
 <contactref element="SV0" pad="29"/>
 <contactref element="SV1" pad="6"/>
 <wire x1="28.0416" y1="48.3108" x2="29.1084" y2="48.3108" width="0.1524" layer="1"/>
@@ -3267,7 +3264,7 @@ design rules under a new name.</description>
 <wire x1="29.1084" y1="48.3108" x2="29.19" y2="48.27" width="0.1524" layer="1"/>
 <wire x1="30.6324" y1="12.3444" x2="30.76" y2="12.27" width="0.1524" layer="1"/>
 </signal>
-<signal name="T14">
+<signal name="GB14">
 <contactref element="SV0" pad="31"/>
 <contactref element="SV1" pad="10"/>
 <wire x1="29.4132" y1="12.192" x2="28.3464" y2="12.192" width="0.1524" layer="16"/>
@@ -3281,7 +3278,7 @@ design rules under a new name.</description>
 <wire x1="28.3464" y1="12.192" x2="28.22" y2="12.27" width="0.1524" layer="16"/>
 <wire x1="34.1376" y1="48.1584" x2="34.27" y2="48.27" width="0.1524" layer="16"/>
 </signal>
-<signal name="T15">
+<signal name="GB15">
 <contactref element="SV0" pad="33"/>
 <contactref element="SV1" pad="14"/>
 <wire x1="26.8224" y1="12.192" x2="25.7556" y2="12.192" width="0.1524" layer="1"/>
