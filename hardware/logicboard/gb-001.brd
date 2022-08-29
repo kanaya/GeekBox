@@ -176,7 +176,7 @@
 <circle x="77" y="43.5" radius="2" width="0.2" layer="41"/>
 <circle x="15" y="14.5" radius="2" width="0.2" layer="41"/>
 <circle x="77" y="14.5" radius="2" width="0.2" layer="41"/>
-<text x="46" y="27" size="1.27" layer="25" align="center">GeekBox 0.0.2-A</text>
+<text x="46" y="27" size="1.27" layer="25" align="center">GeekBox 1.0.0-RC</text>
 <wire x1="79.5" y1="47.5" x2="81" y2="46" width="0" layer="20" curve="90"/>
 <wire x1="12.5" y1="47.5" x2="11" y2="46" width="0" layer="20" curve="-90"/>
 <wire x1="79.5" y1="10.5" x2="81" y2="12" width="0" layer="20" curve="-90"/>
